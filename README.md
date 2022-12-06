@@ -1,2 +1,2 @@
 # icc565
-designing interactivity
+ICC 565 - Designing Web Interactivity
